@@ -1,0 +1,9 @@
+====== INFO GENERATE SIGNED BUNDLE/APK ANDROID STUDIO ======
+
+key store filename: "serpispoin_keystore.jks"
+
+
+-key store password : yukbikinweb
+-key alias          : serpispoin
+-key password       : yukbikinweb
+
